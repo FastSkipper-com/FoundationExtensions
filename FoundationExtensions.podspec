@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FoundationExtensions'
-  s.version          = '0.1.1'
+  s.version          = '0.2.0'
   s.summary          = 'Useful extensions for Swift Foundation library'
 
   s.homepage         = 'https://github.com/FastSkipper-com/FoundationExtensions.git'
